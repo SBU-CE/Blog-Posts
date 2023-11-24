@@ -8,6 +8,7 @@ Awesome list of blog posts related to SBU university
 + [چند خط در مورد رشته دانشگاهی مهندسی کامپیوتر](https://virgool.io/enline/%DA%86%D9%86%D8%AF-%D8%AE%D8%B7-%D8%AF%D8%B1-%D9%85%D9%88%D8%B1%D8%AF-%D8%B1%D8%B4%D8%AA%D9%87-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87%DB%8C-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-yjcwxzxojpd3)
 + [ترم اولی های آینده مهندسی کامپیوتر بخوانند](https://virgool.io/@rsharifnasab/%D8%AA%D8%B1%D9%85-%D8%A7%D9%88%D9%84%DB%8C-%D9%87%D8%A7%DB%8C-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-%D8%A8%D8%AE%D9%88%D8%A7%D9%86%D9%86%D8%AF-ix3wziy8gboq)
 + [فارغ التحصیلی در دانشگاه شهید بهشتی](https://vrgl.ir/DH1uy)
++ [چگونه باید گزارش سمینار بنویسیم](https://docs.google.com/document/d/128DGuXzCVFvD3y0_lJZB8A3ZtDsEROKVslHUOCL8pqk/edit#heading=h.4f9nm9qggpka)
 
 
 ## Introduction to programming 
